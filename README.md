@@ -128,10 +128,4 @@ We evaluated the network's robustness through two simulations:
 
 ---
 
-## Repository
-
-🔗 [GitHub Project](https://github.com/riccardospini98/sna)
-
----
-
 > This project was developed for educational purposes as part of the *Social Network Analysis* course.
